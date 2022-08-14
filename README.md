@@ -1,5 +1,5 @@
 # NS-MongoDB-Chp13
-This repository contains adjusted codes on Chp13 (Relating Posts Collection with Users Collection) of book Beginning Node.js, Express &amp; MongoDB Development by Greg Lim. 
+This repository contains adjusted codes on Chp13 (Relating Posts Collection with Users Collection) of Beginning Node.js, Express &amp; MongoDB Development by Greg Lim. 
 
 # Environment
 Windows 10
